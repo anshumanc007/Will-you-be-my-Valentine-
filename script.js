@@ -61,7 +61,7 @@ const messages = [
     "If you say no, I will be really sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "What Raaaa, Sudeeeppp!",
+    "What Raaaa, Sudeeepp!",
     "Just kidding, say yes please! ❤️"
 ];
 
